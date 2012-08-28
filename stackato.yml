@@ -1,0 +1,8 @@
+name: spree
+framework:
+  type: rails3
+  runtime: ruby19
+requirements:
+  staging:
+    ubuntu:
+    - libmagickwand-dev
